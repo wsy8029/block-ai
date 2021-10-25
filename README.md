@@ -1,2 +1,2 @@
 # block-AI
-All That Coding 내 Block+의 AI Block 구현
+Entry AI 블록 백엔드 세팅
